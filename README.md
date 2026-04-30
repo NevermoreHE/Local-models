@@ -2,7 +2,7 @@
 
 NEVERMORE-Local models-repository
 
-Repository for the system dynamics model developed in NEVERMORE project to evalaute the effect of adapration and mitigation measures.
+Repository for the system dynamics model developed in NEVERMORE project to evalaute the effect of adaptation and mitigation measures.
 
 Two different versions are included in the repository:
 

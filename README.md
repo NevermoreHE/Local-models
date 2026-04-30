@@ -11,4 +11,4 @@ Two different versions are included in the repository:
 
 In the folder of each version, you will find information on how to use it to simulate scenarios.
 
-* "This project has received funding from the European Union’s Horizon Europe research and innovation program under grant agreement No 101056858".
+"This project has received funding from the European Union’s Horizon Europe research and innovation program under grant agreement No 101056858".

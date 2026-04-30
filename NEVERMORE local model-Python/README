@@ -1,1 +1,26 @@
+Guidelines to run simulations using the Python Version.
 
+1.- Create a Python environment in Python 3.11 or in a higher version. This environment requires at least the following Python libraries:
+ 
+	pysd
+	numpy
+	warnings
+	time
+
+2.- Case study selection
+
+  - Select your case study
+	- Copy and paste Policy.xlsx and Historical.xlsx files in the same folder as the model
+
+3.- Open Policy.xlsx
+
+	- Modify the intensities of the policies to create your own scenario.
+	- Save the file with the applied changes.
+
+4.- Open run_NEVERMORE_model.py
+
+	- Modify the simulation period if you consider it necessary.
+	- You can select the number of years to be stored in the results file.
+	- Run the simulation.
+
+5.- Results are provided in a unique file (csv and Excel) for the selected case study. The file includes all the selected variables among those available in the model.

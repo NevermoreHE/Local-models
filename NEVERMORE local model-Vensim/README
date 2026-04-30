@@ -2,14 +2,19 @@ Guidelines to run simulations using the Vensim Version.
 
 1.- Download Vensim Model Reader: https://vensim.com/free-downloads/
 
-2.- Open Policy.xlsx file
+2.- Case study selection
 
-	- Modify policy intensities for the case study that you are thinking of simulating.
+    - Select your case study
+	- Copy and paste Policy.xlsx and Historical.xlsx files in the same folder as the model file
+
+3.- Open Policy.xlsx
+
+	- Modify the intensities of the policies to create your own scenario.
 	- Save the file with the applied changes.
 
-3.- Open "RethinkAction_CS_model.mdl" with Vensim Model Reader
+4.- Open "NEVERMORE_local_model.mdl" with Vensim Model Reader
 
-	- Select a name for your policy action scenario.
+	- Select a name for your policy-action scenario.
 	- Run the simulation.
 	- Visualise the results by selecting an plotting each variable.
 	- You can check the "Vensim_buttons_location.jpg" to find help to run the simulation with the previous steps.

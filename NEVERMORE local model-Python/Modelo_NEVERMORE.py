@@ -1,5 +1,7 @@
 """
-Python model 'Modelo_NEVERMORE.py'
+@author: Fundación CARTIF
+
+'NEVERMORE_local_model'
 """
 
 from pathlib import Path

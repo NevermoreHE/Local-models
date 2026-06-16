@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Oct 29 12:51:23 2030
-
-@author: ivaram
+@author: Fundación CARTIF
 """
 
 import pysd

@@ -10,7 +10,7 @@ Guidelines to run simulations using the Python Version.
 2.- Case study selection
 
     - Select your case study
-	- Copy and paste Policy.xlsx and Historical.xlsx files in the same folder as the model
+	- Copy and paste Policy.xlsx and Historical.xlsx files from the "Case_study_database" folder in the same folder as the model.
 
 3.- Open Policy.xlsx
 

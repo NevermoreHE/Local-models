@@ -1,6 +1,5 @@
 """
 Python model 'Modelo_NEVERMORE.py'
-Translated using PySD
 """
 
 from pathlib import Path

@@ -1,1 +1,8 @@
+CS1- Crete Island (Greece)
 
+Local model DATABASE
+
+The database integrates two different files:
+
+  - Historical.xlsx . This file includes the historical data required to run the model implementing the interconnections between variables
+  - Policy.slsx - This file includes the policy parameters used in the model.
